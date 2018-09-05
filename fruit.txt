@@ -12,3 +12,4 @@ melon
 blueberry
 mangosteen
 raspberry
+papaya
